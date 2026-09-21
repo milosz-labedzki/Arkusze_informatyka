@@ -40,12 +40,4 @@ Poprzedni etap (30-dniowy plan nauki) jest zamknięty. Tutaj jest tylko trening 
 | 🧠 | Logika i teoria | kartka |
 
 
-## 📈 Postęp
-
-| # | Data | Wynik | Uwagi |
-|:-:|:-:|:-:|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-
 
