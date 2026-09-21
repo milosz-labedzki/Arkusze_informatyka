@@ -6,7 +6,6 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
 ![Cel](https://img.shields.io/badge/Cel-80%25%2B-ff8c00?style=for-the-badge)
-![Tryb](https://img.shields.io/badge/Tryb-1%20arkusz%20dziennie-e91e63?style=for-the-badge)
 ![Czas](https://img.shields.io/badge/Czas-~50%20min-blueviolet?style=for-the-badge)
 
 </div>
