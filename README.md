@@ -49,13 +49,4 @@ Poprzedni etap (30-dniowy plan nauki) jest zamknięty. Tutaj jest tylko trening 
 | 2 | | | |
 | 3 | | | |
 
----
 
-
-```
-
-<div align="center">
-
-**Do matury! 🍀**
-
-</div>
