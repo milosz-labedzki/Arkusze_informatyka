@@ -1,0 +1,3 @@
+zad 1 
+a) 33 najdluzszy palindrom to rotator
+b) 265 i kotara 9
