@@ -4,7 +4,7 @@
 
 ### Arkusze próbne z informatyki – matura rozszerzona (CKE)
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)](#)
 ![Cel](https://img.shields.io/badge/Cel-80%25%2B-ff8c00?style=for-the-badge)
 ![Czas](https://img.shields.io/badge/Czas-~50%20min-blueviolet?style=for-the-badge)
 
