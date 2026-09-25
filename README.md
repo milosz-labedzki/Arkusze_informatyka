@@ -14,9 +14,9 @@
 
 ## 🎯 O repo
 
-Codzienne arkusze pod czasem, możliwie jak na maturze: z plikami z danymi, bez podpowiedzi. Każdy arkusz kończy się analizą błędów.
+Arkusze pod czasem, możliwie jak na maturze: z plikami z danymi, bez podpowiedzi. Każdy arkusz kończy się analizą błędów.
 
-Poprzedni etap (30-dniowy plan nauki) jest zamknięty. Tutaj jest tylko trening na arkuszach.
+Poprzedni etap (30-dniowy plan nauki) jest zamknięty. Tutaj jest tylko trening do matury na arkuszach.
 
 ---
 
